@@ -1,0 +1,4 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Button name="OlympusWatchPinTemplate" mixin="OlympusWatchPinMixin" virtual="true" enableMouse="true">
+    </Button>
+</Ui>

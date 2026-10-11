@@ -1,0 +1,5 @@
+Copyright (c) 2026 Samrin / RelevantJesse. All rights reserved.
+
+Original OlympusWatch code, documentation and artwork are reserved by their author.
+The bundled pure_lua_SHA implementation in Hash.lua is licensed separately under
+the MIT terms in Forever/OlympusWatch/THIRD_PARTY_LICENSES.txt.

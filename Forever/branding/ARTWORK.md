@@ -1,0 +1,1 @@
+Generated with the built-in image_gen tool. Prompt: Centered fantasy ivory watchtower with a golden vigilant eye and crimson banner, within an aged-gold circular medallion on charcoal; strong silhouette, no text, original artwork for OlympusWatch. PNG logo exports are 1024 and 400 pixels square; the addon uses an uncompressed 64-pixel TGA of the same artwork.

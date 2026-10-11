@@ -1,0 +1,10 @@
+Forever/dist/
+Forever/backups/
+__pycache__/
+*.pyc
+tools/.private/
+*.pem
+*-client.json
+*.sqlite*
+*.db
+.env*

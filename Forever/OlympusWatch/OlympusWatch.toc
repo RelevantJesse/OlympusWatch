@@ -1,0 +1,21 @@
+## Interface: 16001
+## Title: Olympus Watch
+## Notes: Shared sightings of PvP-flagged opposing-faction watched guilds.
+## IconTexture: Interface\AddOns\OlympusWatch\MinimapIcon
+## Author: Samrin
+## Version: 0.8.0
+## SavedVariables: OlympusWatchDB
+
+Core.lua
+Hash.lua
+Crypto.lua
+AuthorityKey.lua
+Authority.lua
+ServerSync.lua
+Activity.lua
+Encounters.lua
+UI.lua
+ControlUI.lua
+Minimap.lua
+Map.lua
+Map.xml
